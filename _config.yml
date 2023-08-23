@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Chaoyue Liu"
   avatar           : "profile.png"
-  bio              : > 
+  bio              : |+ 
                       Postdoctoral Scholar
-                      HDSI, UC San Diego \n
+                      HDSI, UC San Diego 
                       email: chl212@ucsd.edu
   location         : "San Diego, CA"
   employer         :
