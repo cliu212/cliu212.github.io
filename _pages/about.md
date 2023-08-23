@@ -10,14 +10,23 @@ redirect_from:
 
 I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https://datascience.ucsd.edu/), [UC San Diego](https://ucsd.edu/), working with [Dr. Misha Belkin](http://misha.belkin-wang.org/). I obtained my Ph.D. degree in Computer Science from [The Ohio State University](https://www.osu.edu/) in 2021, where I was advised by [Dr. Misha Belkin](http://misha.belkin-wang.org/). After that, I spend one year in Meta Pltforms Inc., as a research scientist. I also hold B.S. and M.S. degrees in physics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-Research Interests
-======
+**Research Interests:** My research focuses on the theoretical foundation of deep learning optimization and of its acceleration. I am enthusiastic in theoretically understanding the dynamics of neural network training, and the mechanisms behind. I believe that discovering fundamental properties of neural networks is a unique way to achieve this goal. I am also interested in improving network training by algorithmic acceleration and connections between optimization and generalization performance of neural networks.
+
+*I will join the job market for a faculty position starting at 2024 Fall.*
 
 News
 ======
+* 2023/06: New paper showing that spikes in SGD training loss are catapult dynamics, with Libin Zhu, Adityanarayanan Radhakrishnan, Misha Belkin. See [*arXiv:2306.04815*](https://arxiv.org/abs/2306.04815)
+* 2023/06: New paper on the large learning rate and fast convergence of SGD for wide neural networks, with Dmitriy Drusvyatskiy, Misha Belkin, Damek Davis and Yi-An Ma. See [*arXiv:2306.02601*](https://arxiv.org/abs/2306.02601)
+* 2023/06: New paper studying the mechanism underlying clean-priority learning in noisy-label scenario, with Amirhesam Abedsoltan and Misha Belkin. See [*arXiv:2306.02533*](https://arxiv.org/abs/2306.02533)
+* 2023/05: New paper showing the effect of ReLU non-linear activation on the NTK condition number, with Like Hui. See [*arXiv:2305.08813*](https://arxiv.org/abs/2305.08813)
+* 2022/09: I am now a postdoc at the Halıcıoğlu Data Science Institute at UC San Diego.
 
 Publication
 ======
+
+
+
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
