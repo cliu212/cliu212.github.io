@@ -93,9 +93,29 @@ arXiv:1802.10235
 **Chaoyue Liu**, Mikhail Belkin   
 Neural Information Processing Systems (NeurIPS), 2016.
 
+Talks
+======
+* *Transition to Linearity of Wide Neural Networks*, Math Machine Learning Seminar, Max Planck
+Institute & UCLA, April 2022.
+* *Large Non-linear Models: Transition to Linearity & An Optimization Theory*, NSF-Simons Journal
+Club, January 2021
+
+Teaching
+======
+* OSU CSE 5523: Machine Learning, 17'Sp, 18'Sp, 19'Sp. (Teaching assistant)
+* OSU CSE 3421: Intro. to Computer Architecture, 18'Au. (Teaching assistant)
+* OSU CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases, 16'Sp. (Teaching assistant)
+* OSU CSE 2321: Discrete Structure, 15'Au. (Teaching assistant)
+
 Services
 ======
 Reviewer
+* 2023: ICLR, NeurIPS, ICML, TMLR, IEEE TNNLS, IMA, NeuroComputing
+* 2022: ICLR, NeurIPS, ICML, TMLR, AAAI, Swiss NSF grant
+* 2021: ICLR, NeurIPS, ICML, JASA, AAAI
+* 2020: NeurIPS, ICML, AAAI, UAI
+* 2019: NeurIPS, ICML, UAI
+* 2018: NeurIPS
 
 
 
