@@ -15,6 +15,7 @@ I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https:
 *I will join the job market for a faculty position starting at 2024 Fall.*
 
 <a name="news"></a>
+
 News
 ======
 * 2023/06: New paper showing that spikes in SGD training loss are catapult dynamics, with Libin Zhu, Adityanarayanan Radhakrishnan, Misha Belkin. See [*arXiv:2306.04815*](https://arxiv.org/abs/2306.04815)
@@ -24,6 +25,7 @@ News
 * 2022/09: I am now a postdoc at the Halıcıoğlu Data Science Institute at UC San Diego.
 
 <a name="publications"></a>
+
 Publications
 ======
 
@@ -96,6 +98,7 @@ arXiv:1802.10235
 Neural Information Processing Systems (NeurIPS), 2016.
 
 <a name="talks"></a>
+
 Talks
 ======
 * *Transition to Linearity of Wide Neural Networks*, Math Machine Learning Seminar, Max Planck
@@ -104,6 +107,7 @@ Institute & UCLA, April 2022.
 Club, January 2021
 
 <a name="teaching"></a>
+
 Teaching
 ======
 * OSU CSE 5523: Machine Learning, 17'Sp, 18'Sp, 19'Sp. (Teaching assistant)
@@ -112,6 +116,7 @@ Teaching
 * OSU CSE 2321: Discrete Structure, 15'Au. (Teaching assistant)
 
 <a name="services"></a>
+
 Services
 ======
 Reviewer
