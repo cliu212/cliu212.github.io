@@ -25,12 +25,12 @@ News
 Publications
 ======
 
-* **Aiming towards the minimizers: fast convergence of SGD for overparametrized problems**[link](https://arxiv.org/abs/2306.02601)
-**Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma
+**Aiming towards the minimizers: fast convergence of SGD for overparametrized problems**[pdf](https://arxiv.org/pdf/2306.02601.pdf)     
+**Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
 arXiv:2306.02601 (In submission)
 
-* **ReLU soothes the NTK condition number and accelerates optimization for wide neural networks**[link](https://arxiv.org/abs/2305.08813)
-**Chaoyue Liu**, Like Hui
+**ReLU soothes the NTK condition number and accelerates optimization for wide neural networks**[link](https://arxiv.org/pdf/2305.08813.pdf)    
+**Chaoyue Liu**, Like Hui    
 arXiv:2305.08813 (In submission)
 
 * **On Emergence of Clean-Priority Learning in Early Stopped Neural Networks**[link](https://arxiv.org/abs/2306.02533)
