@@ -25,71 +25,71 @@ News
 Publications
 ======
 
-[**Aiming towards the minimizers: fast convergence of SGD for overparametrized problems**](https://arxiv.org/abs/2306.02601)
+* **Aiming towards the minimizers: fast convergence of SGD for overparametrized problems**[link](https://arxiv.org/abs/2306.02601)
 **Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma
 arXiv:2306.02601 (In submission)
 
-[**ReLU soothes the NTK condition number and accelerates optimization for wide neural networks**](https://arxiv.org/abs/2305.08813)
+* **ReLU soothes the NTK condition number and accelerates optimization for wide neural networks**[link](https://arxiv.org/abs/2305.08813)
 **Chaoyue Liu**, Like Hui
 arXiv:2305.08813 (In submission)
 
-[**On Emergence of Clean-Priority Learning in Early Stopped Neural Networks**](https://arxiv.org/abs/2306.02533)
+* **On Emergence of Clean-Priority Learning in Early Stopped Neural Networks**[link](https://arxiv.org/abs/2306.02533)
 **Chaoyue Liu**\*, Amirhesam Abedsoltan\* and Mikhail Belkin
 arXiv:2306.02533 (In submission)
 
-[**Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning**](https://arxiv.org/abs/2306.04815)
+* **Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning**[link](https://arxiv.org/abs/2306.04815)
 Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin
 arXiv:2306.04815 (In submission)
 
-[**Loss landscapes and optimization in over-parameterized non-linear systems and neural networks**](https://www.sciencedirect.com/science/article/abs/pii/S106352032100110X)
+* **Loss landscapes and optimization in over-parameterized non-linear systems and neural networks**[link](https://www.sciencedirect.com/science/article/abs/pii/S106352032100110X)
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin
 Applied and Computational Harmonic Analysis (ACHA) 2022.
 
-[**Transition to Linearity of Wide Neural Networks is an Emerging Property of Assembling Weak Models**](https://openreview.net/forum?id=CyKHoKyvgnp)
+* **Transition to Linearity of Wide Neural Networks is an Emerging Property of Assembling Weak Models**[link](https://openreview.net/forum?id=CyKHoKyvgnp)
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin
 International Conference on Learning Representations (ICLR), 2022.
 
-[**Transition to linearity of general neural networks with directed acyclic graph architecture**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/23cf4f3fd33c2fb071fc40aee0ec2884-Abstract-Conference.html)
+* **Transition to linearity of general neural networks with directed acyclic graph architecture**[link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/23cf4f3fd33c2fb071fc40aee0ec2884-Abstract-Conference.html)
 Libin Zhu, **Chaoyue Liu**, Mikhail Belkin
 Neural Information Processing Systems (NeurIPS), 2022.
 
-[**Quadratic models for understanding neural network dynamics**](https://arxiv.org/abs/2205.11787)
+* **Quadratic models for understanding neural network dynamics**[link](https://arxiv.org/abs/2205.11787)
 Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin
 arXiv:2205.11787 (In Submission)
 
-[**Understanding and Accelerating the Optimization of Modern Machine Learning**](https://www.proquest.com/openview/bfa1255b23af1efb8bac1f54997af8e4/1?pq-origsite=gscholar&cbl=18750&diss=y)
+* **Understanding and Accelerating the Optimization of Modern Machine Learning**[link](https://www.proquest.com/openview/bfa1255b23af1efb8bac1f54997af8e4/1?pq-origsite=gscholar&cbl=18750&diss=y)
 **Chaoyue Liu**
 Ph.D. dissertation, The Ohio State University. 2021.
 
-[**Two-Sided Wasserstein Procrustes Analysis.**](https://www.ijcai.org/proceedings/2021/0484.pdf)
+* **Two-Sided Wasserstein Procrustes Analysis.**[link](https://www.ijcai.org/proceedings/2021/0484.pdf)
 Kun Jin, **Chaoyue Liu**, Cathy Xia
 IJCAI, 2021
 
-[**On the linearity of large non-linear models: when and why the tangent kernel is constant**](https://proceedings.neurips.cc/paper/2020/hash/b7ae8fecf15b8b6c3c69eceae636d203-Abstract.html)
+* **On the linearity of large non-linear models: when and why the tangent kernel is constant**[link](https://proceedings.neurips.cc/paper/2020/hash/b7ae8fecf15b8b6c3c69eceae636d203-Abstract.html)
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin
 Neural Information Processing Systems (NeurIPS), 2020.
 
-[**Accelerating sgd with momentum for over-parameterized learning**](https://openreview.net/forum?id=r1gixp4FPH)
+* **Accelerating sgd with momentum for over-parameterized learning**[link](https://openreview.net/forum?id=r1gixp4FPH)
 **Chaoyue Liu**, Mikhail Belkin
 International Conference on Learning Representations (ICLR), 2020.
 
-[**Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning**](https://arxiv.org/abs/2003.00307v1)
+* **Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning**[link](https://arxiv.org/abs/2003.00307v1)
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin
 arXiv:2003.00307
 
-[**Otda: a unsupervised optimal transport framework with discriminant analysis for keystroke inference**](https://ieeexplore.ieee.org/abstract/document/9162258)
+* **Otda: a unsupervised optimal transport framework with discriminant analysis for keystroke inference**[link](https://ieeexplore.ieee.org/abstract/document/9162258)
 Kun Jin, **Chaoyue Liu**, Cathy Xia
 IEEE Conference on Communications and Network Security (CNS), 2020
 
-[**Mass: an accelerated stochastic method for over-parametrized learning**](https://arxiv.org/abs/1810.13395v1)
+* **Mass: an accelerated stochastic method for over-parametrized learning**[link](https://arxiv.org/abs/1810.13395v1)
 **Chaoyue Liu**, Mikhail Belkin
 arXiv:1810.13395
 
-[**Parametrized accelerated methods free of condition number**](arXiv:1802.10235)
+* **Parametrized accelerated methods free of condition number**[link](arXiv:1802.10235)
 **Chaoyue Liu**, Mikhail Belkin
 arXiv:1802.10235
 
-[**Clustering with Bregman divergences: an asymptotic analysis**](https://proceedings.neurips.cc/paper_files/paper/2016/hash/c4851e8e264415c4094e4e85b0baa7cc-Abstract.html)
+* **Clustering with Bregman divergences: an asymptotic analysis**[link](https://proceedings.neurips.cc/paper_files/paper/2016/hash/c4851e8e264415c4094e4e85b0baa7cc-Abstract.html)
 **Chaoyue Liu**, Mikhail Belkin
 Neural Information Processing Systems (NeurIPS), 2016.
 
