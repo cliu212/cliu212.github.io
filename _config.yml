@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Chaoyue Liu"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Scholar"
-  bio2             : "HDSI, UC San Diego"
-  bio3             : "Email: chl212@ucsd.edu"
+  bio              : > 
+                      "Postdoctoral Scholar \n"
+                      "HDSI, UC San Diego \n"
+                      "email: chl212@ucsd.edu"
   location         : "San Diego, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
