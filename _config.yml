@@ -82,11 +82,8 @@ analytics:
 author:
   name             : "Chaoyue Liu"
   avatar           : "profile.png"
-  bio              : |+ 
-                      Postdoctoral Scholar
-                      
+  bio              :  Postdoctoral Scholar
                       HDSI, UC San Diego 
-                      
                       email: chl212@ucsd.edu
   location         : "San Diego, CA"
   employer         :
@@ -108,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0653-7872"
+  orcid            : #"https://orcid.org/0000-0003-0653-7872"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
