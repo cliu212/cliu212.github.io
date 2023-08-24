@@ -84,12 +84,11 @@ author:
   avatar           : "profile.png"
   bio              :  Postdoctoral Scholar
                       HDSI, UC San Diego 
-                      email: chl212@ucsd.edu
   location         : "San Diego, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sRjoMX0AAAAJ"
-  email            :
+  email            : "chl212@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
