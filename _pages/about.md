@@ -12,12 +12,13 @@ I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https:
 
 **Research Interests:** My research focuses on the theoretical foundation of deep learning optimization and of its acceleration. I am enthusiastic in theoretically understanding the dynamics of neural network training, and the mechanisms behind. My recent research effort has been devoted to finding fundamental properties of neural networks and/or algorithms that are responsible for the practical fast training. By doing so, we were able to establish optimization theories and develop accelerated algorithms for neural networks. I am also interested in the connections between optimization and generalization performance of neural networks.
 
-*I will join the job market for a faculty position starting at 2024 Fall.*
+*I will join the job market for a faculty position that starts at 2024 Fall.*
 
 <a name="news"></a>
 
 News
 ======
+* 2023/09: One paper was accepted by NeurIPS 2023! Arxiv version: [*arXiv:2306.02601*](https://arxiv.org/abs/2306.02601)
 * 2023/06: New paper showing that spikes in SGD training loss are catapult dynamics, with Libin Zhu, Adityanarayanan Radhakrishnan, Misha Belkin. See [*arXiv:2306.04815*](https://arxiv.org/abs/2306.04815)
 * 2023/06: New paper on the large learning rate and fast convergence of SGD for wide neural networks, with Dmitriy Drusvyatskiy, Misha Belkin, Damek Davis and Yi-An Ma. See [*arXiv:2306.02601*](https://arxiv.org/abs/2306.02601)
 * 2023/06: New paper studying the mechanism underlying clean-priority learning in noisy-label scenario, with Amirhesam Abedsoltan and Misha Belkin. See [*arXiv:2306.02533*](https://arxiv.org/abs/2306.02533)
@@ -29,9 +30,7 @@ News
 Publications
 ======
 
-**Aiming towards the minimizers: fast convergence of SGD for overparametrized problems** [\[pdf\]](https://arxiv.org/pdf/2306.02601.pdf)     
-**Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
-arXiv:2306.02601 (In submission)
+
 
 **ReLU soothes the NTK condition number and accelerates optimization for wide neural networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813.pdf)    
 **Chaoyue Liu**, Like Hui    
@@ -45,13 +44,17 @@ arXiv:2306.02533 (In submission)
 Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin   
 arXiv:2306.04815 (In submission)
 
+**Aiming towards the minimizers: fast convergence of SGD for overparametrized problems** [\[pdf\]](https://arxiv.org/pdf/2306.02601.pdf)     
+**Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
+Neural Information Processing Systems (NeurIPS), 2023.
+
 **Loss landscapes and optimization in over-parameterized non-linear systems and neural networks** [\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S106352032100110X)   
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
 Applied and Computational Harmonic Analysis (ACHA) 2022.
 
 **Transition to Linearity of Wide Neural Networks is an Emerging Property of Assembling Weak Models** [\[pdf\]](https://openreview.net/pdf?id=CyKHoKyvgnp)   
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
-International Conference on Learning Representations (ICLR), 2022.
+International Conference on Learning Representations (ICLR), 2022. (spotlight paper, 5.2% of all submissions)
 
 **Transition to linearity of general neural networks with directed acyclic graph architecture** [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/23cf4f3fd33c2fb071fc40aee0ec2884-Paper-Conference.pdf)   
 Libin Zhu, **Chaoyue Liu**, Mikhail Belkin   
@@ -71,11 +74,11 @@ IJCAI, 2021
 
 **On the linearity of large non-linear models: when and why the tangent kernel is constant** [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2020/file/b7ae8fecf15b8b6c3c69eceae636d203-Paper.pdf)    
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin    
-Neural Information Processing Systems (NeurIPS), 2020.
+Neural Information Processing Systems (NeurIPS), 2020. (spotlight paper, 3.0% of all submissions)
 
 **Accelerating sgd with momentum for over-parameterized learning** [\[pdf\]](https://openreview.net/pdf?id=r1gixp4FPH)   
 **Chaoyue Liu**, Mikhail Belkin    
-International Conference on Learning Representations (ICLR), 2020.
+International Conference on Learning Representations (ICLR), 2020. (spotlight paper, 4.2% of all submissions)
 
 **Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning** [\[pdf\]](https://arxiv.org/pdf/2003.00307v1.pdf)    
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
