@@ -48,6 +48,10 @@ arXiv:2306.04815 (In submission)
 **Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
 Neural Information Processing Systems (NeurIPS), 2023.
 
+**SGD batch saturation for training wide neural networks**    
+**Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
+NeurIPS Workshop for Optimization for Machine Learning, 2023.
+
 **Loss landscapes and optimization in over-parameterized non-linear systems and neural networks** [\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S106352032100110X)   
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
 Applied and Computational Harmonic Analysis (ACHA) 2022.
