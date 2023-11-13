@@ -58,7 +58,7 @@ Applied and Computational Harmonic Analysis (ACHA) 2022.
 
 **Transition to Linearity of Wide Neural Networks is an Emerging Property of Assembling Weak Models** [\[pdf\]](https://openreview.net/pdf?id=CyKHoKyvgnp)   
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
-International Conference on Learning Representations (ICLR), 2022. (spotlight paper, 5.2% of all submissions)
+International Conference on Learning Representations (ICLR), 2022. (**spotlight paper**, 5.2% of all submissions)
 
 **Transition to linearity of general neural networks with directed acyclic graph architecture** [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/23cf4f3fd33c2fb071fc40aee0ec2884-Paper-Conference.pdf)   
 Libin Zhu, **Chaoyue Liu**, Mikhail Belkin   
@@ -78,11 +78,11 @@ IJCAI, 2021
 
 **On the linearity of large non-linear models: when and why the tangent kernel is constant** [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2020/file/b7ae8fecf15b8b6c3c69eceae636d203-Paper.pdf)    
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin    
-Neural Information Processing Systems (NeurIPS), 2020. (spotlight paper, 3.0% of all submissions)
+Neural Information Processing Systems (NeurIPS), 2020. (**spotlight paper**, 3.0% of all submissions)
 
 **Accelerating sgd with momentum for over-parameterized learning** [\[pdf\]](https://openreview.net/pdf?id=r1gixp4FPH)   
 **Chaoyue Liu**, Mikhail Belkin    
-International Conference on Learning Representations (ICLR), 2020. (spotlight paper, 4.2% of all submissions)
+International Conference on Learning Representations (ICLR), 2020. (**spotlight paper**, 4.2% of all submissions)
 
 **Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning** [\[pdf\]](https://arxiv.org/pdf/2003.00307v1.pdf)    
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
