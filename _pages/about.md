@@ -84,17 +84,9 @@ Neural Information Processing Systems (NeurIPS), 2020. (**spotlight paper**, 3.0
 **Chaoyue Liu**, Mikhail Belkin    
 International Conference on Learning Representations (ICLR), 2020. (**spotlight paper**, 4.2% of all submissions)
 
-**Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning** [\[pdf\]](https://arxiv.org/pdf/2003.00307v1.pdf)    
-**Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
-arXiv:2003.00307
-
 **Otda: a unsupervised optimal transport framework with discriminant analysis for keystroke inference** [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9162258)    
 Kun Jin, **Chaoyue Liu**, Cathy Xia    
 IEEE Conference on Communications and Network Security (CNS), 2020
-
-**Mass: an accelerated stochastic method for over-parametrized learning** [\[pdf\]](https://arxiv.org/pdf/1810.13395v1.pdf)   
-**Chaoyue Liu**, Mikhail Belkin   
-arXiv:1810.13395
 
 **Parametrized accelerated methods free of condition number** [\[pdf\]](https://arxiv.org/pdf/1802.10235.pdf)    
 **Chaoyue Liu**, Mikhail Belkin   
