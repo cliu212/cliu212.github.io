@@ -50,7 +50,7 @@ arXiv:2306.04815 (In submission)
 **Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
 Neural Information Processing Systems (NeurIPS), 2023.
 
-**SGD batch saturation for training wide neural networks**    
+**SGD batch saturation for training wide neural networks** [\[pdf\]](https://openreview.net/pdf?id=EoJqVH7K96)   
 **Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
 NeurIPS Workshop on Optimization for Machine Learning, 2023.
 
