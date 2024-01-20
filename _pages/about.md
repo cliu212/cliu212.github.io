@@ -20,6 +20,7 @@ You can find my CV [here](../CV.pdf).
 
 News
 ======
+* 2024/01: Our paper on quadratic models for understanding neural network catapult dynamics was accepted by ICLR 2024!  [\[Preprint\]](https://arxiv.org/pdf/2205.11787.pdf) 
 * 2023/09: One paper was accepted by NeurIPS 2023! Arxiv version: [*arXiv:2306.02601*](https://arxiv.org/abs/2306.02601)
 * 2023/06: New paper showing that spikes in SGD training loss are catapult dynamics, with Libin Zhu, Adityanarayanan Radhakrishnan, Misha Belkin. See [*arXiv:2306.04815*](https://arxiv.org/abs/2306.04815)
 * 2023/06: New paper on the large learning rate and fast convergence of SGD for wide neural networks, with Dmitriy Drusvyatskiy, Misha Belkin, Damek Davis and Yi-An Ma. See [*arXiv:2306.02601*](https://arxiv.org/abs/2306.02601)
@@ -46,6 +47,10 @@ arXiv:2306.02533 (In submission)
 Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin   
 arXiv:2306.04815 (In submission)
 
+**Quadratic models for understanding neural network dynamics** [\[pdf\]](https://arxiv.org/pdf/2205.11787.pdf)    
+Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin    
+International Conference on Learning Representations (ICLR), 2024.
+
 **Aiming towards the minimizers: fast convergence of SGD for overparametrized problems** [\[pdf\]](https://arxiv.org/pdf/2306.02601.pdf)     
 **Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
 Neural Information Processing Systems (NeurIPS), 2023.
@@ -65,10 +70,6 @@ International Conference on Learning Representations (ICLR), 2022. (**spotlight 
 **Transition to linearity of general neural networks with directed acyclic graph architecture** [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/23cf4f3fd33c2fb071fc40aee0ec2884-Paper-Conference.pdf)   
 Libin Zhu, **Chaoyue Liu**, Mikhail Belkin   
 Neural Information Processing Systems (NeurIPS), 2022.
-
-**Quadratic models for understanding neural network dynamics** [\[pdf\]](https://arxiv.org/pdf/2205.11787.pdf)    
-Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin    
-arXiv:2205.11787 (In Submission)
 
 **Understanding and Accelerating the Optimization of Modern Machine Learning** [\[pdf\]](https://www.proquest.com/openview/bfa1255b23af1efb8bac1f54997af8e4/1?pq-origsite=gscholar&cbl=18750&diss=y)    
 **Chaoyue Liu**   
