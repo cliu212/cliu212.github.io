@@ -14,7 +14,7 @@ I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https:
 
 You can find my CV [here](../CV.pdf).
 
-<!---*I will be on the job market for a faculty position that starts in Fall 2024.*--->
+*I am on the job market for the 2023-2024 season.*
 
 <a name="news"></a>
 
