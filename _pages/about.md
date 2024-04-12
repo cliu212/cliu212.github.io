@@ -12,8 +12,6 @@ I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https:
 
 **Research Interests:** My research focuses on the theoretical foundation of deep learning optimization and of its acceleration. I am enthusiastic in theoretically understanding the dynamics of neural network training, and the mechanisms behind. My recent research effort has been devoted to finding fundamental properties of neural networks and/or algorithms that are responsible for the practical fast training. By doing so, we were able to establish optimization theories and develop accelerated algorithms for neural networks. I am also interested in the connections between optimization and generalization performance of neural networks.
 
-*I am on the job market for the 2023-2024 season.*
-
 <a name="news"></a>
 
 News
