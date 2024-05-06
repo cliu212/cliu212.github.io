@@ -12,6 +12,8 @@ I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https:
 
 **Research Interests:** My research focuses on the theoretical foundation of deep learning optimization and of its acceleration. I am enthusiastic in theoretically understanding the dynamics of neural network training, and the mechanisms behind. My recent research effort has been devoted to finding fundamental properties of neural networks and/or algorithms that are responsible for the practical fast training. By doing so, we were able to establish optimization theories and develop accelerated algorithms for neural networks. I am also interested in the connections between optimization and generalization performance of neural networks.
 
+**I will join [Purdue University](https://www.purdue.edu/), [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) as an Assistant Professor in August 2024. I am looking for PhD students to join my group. Please email me if you are interested in working with me!**
+
 <a name="news"></a>
 
 News
