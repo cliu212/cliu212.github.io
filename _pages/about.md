@@ -103,7 +103,7 @@ Talks
 ======
 * *Why does SGD converge so fast on over-parameterized neural networks*, CSE AI Seminar, CSE @ UCSD, Apr 2024.
 * *Why does SGD converge so fast on over-parameterized neural networks*, Information Theory and Application (ITA) workshop, San Diego, Feb 2024.
-* Transition to Linearity & Optimization Theories of Wide Neural Networks*, Control and Pizza (Co-PI) seminar, ECE@ UCSD, Nov 2023.
+* *Transition to Linearity & Optimization Theories of Wide Neural Networks*, Control and Pizza (Co-PI) seminar, ECE@ UCSD, Nov 2023.
 * *Transition to Linearity of Wide Neural Networks*, Math Machine Learning Seminar, Max Planck Institute & UCLA, Apr 2022.
 * *Large Non-linear Models: Transition to Linearity & An Optimization Theory*, NSF-Simons Journal Club, Jan 2021.
 * *Accelerating SGD with Momentum for over-parameterized learning*, MoDL workshop, Dec 2020.
