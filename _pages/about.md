@@ -18,6 +18,7 @@ I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https:
 
 News
 ======
+* 2024/05: Our paper on catapult dynamics of SGD was accepted by ICML 2024! (with Libin, Adityanarayanan and Misha)  [\[Preprint\]](https://arxiv.org/pdf/2306.04815.pdf)
 * 2024/01: Our paper on quadratic models for understanding neural network catapult dynamics was accepted by ICLR 2024!  [\[Preprint\]](https://arxiv.org/pdf/2205.11787.pdf) 
 * 2023/09: One paper was accepted by NeurIPS 2023! Arxiv version: [*arXiv:2306.02601*](https://arxiv.org/abs/2306.02601)
 * 2023/06: New paper showing that spikes in SGD training loss are catapult dynamics, with Libin Zhu, Adityanarayanan Radhakrishnan, Misha Belkin. See [*arXiv:2306.04815*](https://arxiv.org/abs/2306.04815)
@@ -32,18 +33,17 @@ Publications
 ======
 
 
+**On Emergence of Clean-Priority Learning in Early Stopped Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2306.02533.pdf)   
+**Chaoyue Liu**\*, Amirhesam Abedsoltan\* and Mikhail Belkin    
+arXiv:2306.02533 (In submission)
 
 **ReLU soothes the NTK condition number and accelerates optimization for wide neural networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813.pdf)    
 **Chaoyue Liu**, Like Hui    
 arXiv:2305.08813 (In submission)
 
-**On Emergence of Clean-Priority Learning in Early Stopped Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2306.02533.pdf)   
-**Chaoyue Liu**\*, Amirhesam Abedsoltan\* and Mikhail Belkin    
-arXiv:2306.02533 (In submission)
-
 **Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning** [\[pdf\]](https://arxiv.org/pdf/2306.04815.pdf)    
 Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin   
-arXiv:2306.04815 (In submission)
+International Conference on Machine Learning (ICML), 2024.
 
 **Quadratic models for understanding neural network dynamics** [\[pdf\]](https://arxiv.org/pdf/2205.11787.pdf)    
 Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin    
@@ -101,10 +101,13 @@ Neural Information Processing Systems (NeurIPS), 2016.
 
 Talks
 ======
-* *Transition to Linearity of Wide Neural Networks*, Math Machine Learning Seminar, Max Planck
-Institute & UCLA, April 2022.
-* *Large Non-linear Models: Transition to Linearity & An Optimization Theory*, NSF-Simons Journal
-Club, January 2021
+* *Why does SGD converge so fast on over-parameterized neural networks*, CSE AI Seminar, CSE @ UCSD, Apr 2024.
+* *Why does SGD converge so fast on over-parameterized neural networks*, Information Theory and Application (ITA) workshop, San Diego, Feb 2024.
+* Transition to Linearity & Optimization Theories of Wide Neural Networks*, Control and Pizza (Co-PI) seminar, ECE@ UCSD, Nov 2023.
+* *Transition to Linearity of Wide Neural Networks*, Math Machine Learning Seminar, Max Planck Institute & UCLA, Apr 2022.
+* *Large Non-linear Models: Transition to Linearity & An Optimization Theory*, NSF-Simons Journal Club, Jan 2021.
+* *Accelerating SGD with Momentum for over-parameterized learning*, MoDL workshop, Dec 2020.
+* *Clustering with Bregman divergences: an asymptotic analysis*, CSE AI seminar, Ohio State University, 2017.
 
 <a name="teaching"></a>
 
@@ -119,7 +122,11 @@ Teaching
 
 Services
 ======
+Organizer
+* [2024 MoDL workshop](https://modl-meeting-2024.github.io/)
+
 Reviewer
+* 2024: ICLR, ICML, NeurIPS, TMLR, JMLR
 * 2023: ICLR, NeurIPS, ICML, TMLR, IEEE TNNLS, IMA, NeuroComputing
 * 2022: ICLR, NeurIPS, ICML, TMLR, AAAI, Swiss NSF grant
 * 2021: ICLR, NeurIPS, ICML, JASA, AAAI
