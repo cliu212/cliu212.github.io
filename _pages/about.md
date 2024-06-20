@@ -12,7 +12,12 @@ I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https:
 
 **I will join [Purdue University](https://www.purdue.edu/), [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) as an Assistant Professor in August 2024. I am looking for PhD students to join my group. Please email me if you are interested in working with me!**
 
-**Research Interests:** My research focuses on the theoretical foundation of deep learning optimization and of its acceleration. I am enthusiastic in theoretically understanding the dynamics of neural network training, and the mechanisms behind. My recent research effort has been devoted to finding fundamental properties of neural networks and/or algorithms that are responsible for the practical fast training. By doing so, we were able to establish optimization theories and develop accelerated algorithms for neural networks. I am also interested in the connections between optimization and generalization performance of neural networks.
+**Research Interests:** My research focuses on the (theoretical) foundation of deep learning and its applications. I am enthusiastic in studying fundamental deep learning problems and opening the “black box” of deep learning, by theoretically understanding the neural network models and the dynamics of neural network training. I am also interested in applying these new findings to solve practical problems. 
+
+In the past few years, my research effort has been devoted to finding fundamental properties of neural networks and/or algorithms that are responsible for the practical fast training. By doing so, we were able to establish optimization theories and develop accelerated algorithms for neural networks. Lately, I am working on properties and training dynamics of attention-models, feature learning, architecture’s effect on feature representation, and so on.
+
+My research interests also include: experimentally finding new phenomena in deep learning and understanding/explaining them using mathematical tools, and the connections between optimization and generalization performance of neural networks.
+
 
 
 
