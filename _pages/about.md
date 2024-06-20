@@ -14,7 +14,7 @@ I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https:
 
 **Research Interests:** My research focuses on the (theoretical) foundation of deep learning and its applications. I am enthusiastic in studying fundamental deep learning problems and opening the “black box” of deep learning, by theoretically understanding the neural network models and the dynamics of neural network training. I am also interested in applying these new findings to solve practical problems. 
 
-In the past few years, my research effort has been devoted to finding fundamental properties of neural networks and/or algorithms that are responsible for the practical fast training. By doing so, we were able to establish optimization theories and develop accelerated algorithms for neural networks. Lately, I am working on properties and training dynamics of attention-models, feature learning, architecture’s effect on feature representation, and so on.
+In the past few years, my research effort has been devoted to finding fundamental properties of neural networks and/or algorithms that are responsible for the practical fast training. By doing so, we were able to establish optimization theories and develop accelerated algorithms for neural networks. Lately, I am also working on fundamental problems of deep learning, including properties and training dynamics of attention-models, feature learning, architecture’s effect on feature representation, and so on.
 
 My research interests also include: experimentally finding new phenomena in deep learning and understanding/explaining them using mathematical tools, and the connections between optimization and generalization performance of neural networks.
 
