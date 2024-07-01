@@ -39,6 +39,8 @@ News
 Publications
 ======
 
+**On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models** 
+Omar Basit\*, Phuc Dinh\*, Imran Khan\*, Z. Jonny Kong\*, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, **Chaoyue Liu** (to appear in IEEE MASS 2024)
 
 **On Emergence of Clean-Priority Learning in Early Stopped Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2306.02533.pdf)   
 **Chaoyue Liu**\*, Amirhesam Abedsoltan\* and Mikhail Belkin    
@@ -103,6 +105,8 @@ arXiv:1802.10235
 **Clustering with Bregman divergences: an asymptotic analysis** [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2016/file/c4851e8e264415c4094e4e85b0baa7cc-Paper.pdf)   
 **Chaoyue Liu**, Mikhail Belkin   
 Neural Information Processing Systems (NeurIPS), 2016.
+
+\*: equal contribution
 
 <a name="talks"></a>
 
