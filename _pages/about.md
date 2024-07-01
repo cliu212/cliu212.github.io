@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chaoyue Liu"
+title: "Chaoyue Liu (刘超跃)"
 excerpt: "Chaoyue Liu"
 author_profile: true
 redirect_from: 
