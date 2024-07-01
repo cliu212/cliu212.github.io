@@ -39,8 +39,7 @@ News
 Publications
 ======
 
-**On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models** 
-
+**On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models** \
 Omar Basit\*, Phuc Dinh\*, Imran Khan\*, Z. Jonny Kong\*, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, **Chaoyue Liu** (to appear in IEEE MASS 2024)
 
 **On Emergence of Clean-Priority Learning in Early Stopped Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2306.02533.pdf)   
