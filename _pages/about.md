@@ -42,14 +42,6 @@ Publications
 **On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models** \
 Omar Basit\*, Phuc Dinh\*, Imran Khan\*, Z. Jonny Kong\*, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, **Chaoyue Liu** (to appear in IEEE MASS 2024)
 
-**On Emergence of Clean-Priority Learning in Early Stopped Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2306.02533.pdf)   
-**Chaoyue Liu**\*, Amirhesam Abedsoltan\* and Mikhail Belkin    
-arXiv:2306.02533 (In submission)
-
-**ReLU soothes the NTK condition number and accelerates optimization for wide neural networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813.pdf)    
-**Chaoyue Liu**, Like Hui    
-arXiv:2305.08813 (In submission)
-
 **Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning** [\[pdf\]](https://arxiv.org/pdf/2306.04815.pdf)    
 Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin   
 International Conference on Machine Learning (ICML), 2024.
@@ -65,6 +57,14 @@ Neural Information Processing Systems (NeurIPS), 2023.
 **SGD batch saturation for training wide neural networks** [\[pdf\]](https://openreview.net/pdf?id=EoJqVH7K96)   
 **Chaoyue Liu**, Dmitriy Drusvyatskiy, Mikhail Belkin, Damek Davis, Yi-An Ma    
 NeurIPS Workshop on Optimization for Machine Learning, 2023.
+
+**On Emergence of Clean-Priority Learning in Early Stopped Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2306.02533.pdf)   
+**Chaoyue Liu**\*, Amirhesam Abedsoltan\* and Mikhail Belkin    
+arXiv:2306.02533 (In submission)
+
+**ReLU soothes the NTK condition number and accelerates optimization for wide neural networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813.pdf)    
+**Chaoyue Liu**, Like Hui    
+arXiv:2305.08813 (In submission)
 
 **Loss landscapes and optimization in over-parameterized non-linear systems and neural networks** [\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S106352032100110X)   
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
