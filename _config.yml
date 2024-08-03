@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-classes                  : wide
 locale                   : "en-US"
 title                    : "Chaoyue Liu"
 title_separator          : "-"
@@ -209,7 +208,6 @@ defaults:
       type: pages
     values:
       layout: single
-      classes: wide
       author_profile: true
   # _teaching
   - scope:
