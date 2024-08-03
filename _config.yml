@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chaoyue Liu"
 title_separator          : "-"
 name                     : &name "Chaoyue Liu"
-description              : &description "Postdoc"
+description              : &description "Assistant Professor"
 url                      : https://cliu212.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cliu212/cliu212.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chaoyue Liu"
   avatar           : "profile.png"
-  bio              :  "Postdoctoral Researcher   
-                      Halıcıoğlu Data Science Inst.   
-                      Univ. of California, San Diego   
-                      email: chl212@ucsd.edu"
-  location         : "San Diego, CA"
+  bio              :  "Assistant Professor   
+                      ECE Department   
+                      Purdue University   
+                      email: liu4179@purdue.edu"
+  location         : "West Lafayette, IN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sRjoMX0AAAAJ"
