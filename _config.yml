@@ -209,7 +209,7 @@ defaults:
       type: pages
     values:
       layout: splash
-      classes: wide
+ #     classes: wide
       author_profile: true
   # _teaching
   - scope:
