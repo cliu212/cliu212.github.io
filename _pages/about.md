@@ -125,6 +125,7 @@ Talks
 
 Teaching
 ======
+* Purdue University, ECE 57000: Artificial Intelligence, 24 Fall. (Instructor, with Xiaoqian Wang)
 * OSU CSE 5523: Machine Learning, 17'Sp, 18'Sp, 19'Sp. (Teaching assistant)
 * OSU CSE 3421: Intro. to Computer Architecture, 18'Au. (Teaching assistant)
 * OSU CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases, 16'Sp. (Teaching assistant)
