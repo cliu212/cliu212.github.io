@@ -208,7 +208,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: default
  #     classes: wide
       author_profile: true
   # _teaching
