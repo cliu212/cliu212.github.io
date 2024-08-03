@@ -207,8 +207,9 @@ defaults:
   - scope:
       path: ""
       type: pages
+      classes: wide
     values:
-      layout: default
+      layout: single
  #     classes: wide
       author_profile: true
   # _teaching
