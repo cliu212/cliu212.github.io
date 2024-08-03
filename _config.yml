@@ -82,15 +82,12 @@ analytics:
 author:
   name             : "Chaoyue Liu"
   avatar           : "profile.png"
-  bio              :  "Assistant Professor   
-                      ECE Department   
-                      Purdue University   
-                      email: liu4179@purdue.edu"
+  bio              :  "Assistant Professor"
   location         : "West Lafayette, IN"
-  employer         :
+  employer         : "Purdue University, ECE department"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sRjoMX0AAAAJ"
-  email            : 
+  email            : "liu4179@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
