@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc at [Halıcıoğlu Data Science Institute (HDSI)](https://datascience.ucsd.edu/), [UC San Diego](https://ucsd.edu/), working with [Dr. Misha Belkin](http://misha.belkin-wang.org/). I obtained my Ph.D. degree in Computer Science from [The Ohio State University](https://www.osu.edu/) in 2021, where I was advised by [Dr. Misha Belkin](http://misha.belkin-wang.org/). After that, I spent one year at Meta (a.k.a. Facebook) as a research scientist. I also hold B.S. and M.S. degrees in physics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am an Assistant Professor in [ECE department](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/).  I obtained my Ph.D. degree in Computer Science from [The Ohio State University](https://www.osu.edu/) in 2021, where I was advised by [Dr. Misha Belkin](http://misha.belkin-wang.org/). After that, I spent one year at Meta (a.k.a. Facebook) as a research scientist, and two years at [Halıcıoğlu Data Science Institute (HDSI)](https://datascience.ucsd.edu/), [UC San Diego](https://ucsd.edu/), working with [Dr. Misha Belkin](http://misha.belkin-wang.org/). . I also hold B.S. and M.S. degrees in physics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-**I will join [Purdue University](https://www.purdue.edu/), [ECE department](https://engineering.purdue.edu/ECE), as an Assistant Professor in August 2024. I am looking for PhD students to join my group. Please email me if you are interested in working with me!**
+**I am looking for PhD students to join my group. Please email me if you are interested in working with me!**
 
 **Research Interests:** My research focuses on the (theoretical) foundation of deep learning and its applications. I am enthusiastic in studying fundamental deep learning problems and opening the “black box” of deep learning, by theoretically understanding the neural network models and the dynamics of neural network training. I am also interested in applying these new findings to solve practical problems. 
 
@@ -25,6 +25,7 @@ My research interests also include: experimentally finding new phenomena in deep
 
 News
 ======
+* 2024/08: Joining Purdue Uniersity, ECE department, as an Assistant Professor.
 * 2024/05: Our paper on catapult dynamics of SGD was accepted by ICML 2024! (with Libin, Adityanarayanan and Misha)  [\[Preprint\]](https://arxiv.org/pdf/2306.04815.pdf)
 * 2024/01: Our paper on quadratic models for understanding neural network catapult dynamics was accepted by ICLR 2024!  [\[Preprint\]](https://arxiv.org/pdf/2205.11787.pdf) 
 * 2023/09: One paper was accepted by NeurIPS 2023! Arxiv version: [*arXiv:2306.02601*](https://arxiv.org/abs/2306.02601)
