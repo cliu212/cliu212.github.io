@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+classes                  : wide
 locale                   : "en-US"
 title                    : "Chaoyue Liu"
 title_separator          : "-"
@@ -83,9 +84,8 @@ author:
   name             : "Chaoyue Liu"
   avatar           : "profile.png"
   bio              :  "Assistant Professor"
-  employer         : "Purdue University, ECE department"
-  location         : "West Lafayette, Indiana"
-  office           : "BHEE 313A"
+  employer         : "Purdue University, ECE"
+  location         : "BHEE 313A"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sRjoMX0AAAAJ"
   email            : "liu4179@purdue.edu"
@@ -207,10 +207,9 @@ defaults:
   - scope:
       path: ""
       type: pages
-      classes: wide
     values:
       layout: single
- #     classes: wide
+      classes: wide
       author_profile: true
   # _teaching
   - scope:
