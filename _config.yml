@@ -83,11 +83,13 @@ author:
   name             : "Chaoyue Liu"
   avatar           : "profile.png"
   bio              :  "Assistant Professor"
-  employer         : "Purdue University, ECE"
-  location         : "BHEE 313A"
+  bio2             : "Purdue University, ECE"
+  bio3             : "Office: BHEE 313A"
+  bio4             : "email: liu4179@purdue.edu"
+  location         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sRjoMX0AAAAJ"
-  email            : "liu4179@purdue.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
