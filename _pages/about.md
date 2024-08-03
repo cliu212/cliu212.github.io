@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in [ECE department](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/).  I obtained my Ph.D. degree in Computer Science from [The Ohio State University](https://www.osu.edu/) in 2021, where I was advised by [Dr. Misha Belkin](http://misha.belkin-wang.org/). After that, I spent one year at Meta (a.k.a. Facebook) as a research scientist, and two years at [Halıcıoğlu Data Science Institute (HDSI)](https://datascience.ucsd.edu/), [UC San Diego](https://ucsd.edu/), working with [Dr. Misha Belkin](http://misha.belkin-wang.org/). . I also hold B.S. and M.S. degrees in physics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am an Assistant Professor in [ECE department](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/).  I obtained my Ph.D. degree in Computer Science from [The Ohio State University](https://www.osu.edu/) in 2021, where I was advised by [Dr. Misha Belkin](http://misha.belkin-wang.org/). After that, I spent one year at Meta (a.k.a. Facebook) as a research scientist, and two years at [Halıcıoğlu Data Science Institute (HDSI)](https://datascience.ucsd.edu/), [UC San Diego](https://ucsd.edu/), working with [Dr. Misha Belkin](http://misha.belkin-wang.org/). I also hold B.S. and M.S. degrees in Physics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 **I am looking for PhD students to join my group. Please email me if you are interested in working with me!**
 
