@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chaoyue Liu 刘超跃"
+title: "Chaoyue Liu"
 layout: single
 classes: wide
 excerpt: "Chaoyue Liu"
