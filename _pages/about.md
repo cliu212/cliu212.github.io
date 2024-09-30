@@ -42,8 +42,14 @@ News
 Publications
 ======
 
+**ReLU soothes the NTK condition number and accelerates optimization for wide neural networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813.pdf)    
+**Chaoyue Liu**, Like Hui    
+arXiv:2305.08813 (In submission)
+presented at *Minisymposium: The Dynamical View of Machine Learning* at SIAM Conference on Mathematics of Data Science (MDS24), 2024.
+
 **On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models** \
-Omar Basit\*, Phuc Dinh\*, Imran Khan\*, Z. Jonny Kong\*, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, **Chaoyue Liu** (to appear in IEEE MASS 2024)
+Omar Basit\*, Phuc Dinh\*, Imran Khan\*, Z. Jonny Kong\*, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, **Chaoyue Liu** 
+The IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024
 
 **Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning** [\[pdf\]](https://arxiv.org/pdf/2306.04815.pdf)    
 Libin Zhu, **Chaoyue Liu**, Adityanarayanan Radhakrishnan, Mikhail Belkin   
@@ -63,11 +69,7 @@ NeurIPS Workshop on Optimization for Machine Learning, 2023.
 
 **On Emergence of Clean-Priority Learning in Early Stopped Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2306.02533.pdf)   
 **Chaoyue Liu**\*, Amirhesam Abedsoltan\* and Mikhail Belkin    
-arXiv:2306.02533 (In submission)
-
-**ReLU soothes the NTK condition number and accelerates optimization for wide neural networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813.pdf)    
-**Chaoyue Liu**, Like Hui    
-arXiv:2305.08813 (In submission)
+arXiv:2306.02533 
 
 **Loss landscapes and optimization in over-parameterized non-linear systems and neural networks** [\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S106352032100110X)   
 **Chaoyue Liu**, Libin Zhu, Mikhail Belkin   
