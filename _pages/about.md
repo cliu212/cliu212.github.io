@@ -46,11 +46,11 @@ Publications
 **Chaoyue Liu**, Han Bi, Like Hui, Xiao Liu    
 Neural Information Processing Systems (NeurIPS), 2025. (To appear)
 
-**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL** \ 
+**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**    
 Jianing Zhang, Evan Chen, Dong-Jun Han, **Chaoyue Liu**, Christopher G Brinton    
 arXiv: 2502.20565
 
-**Parameter Tracking in Federated Learning with Adaptive Optimization** \ 
+**Parameter Tracking in Federated Learning with Adaptive Optimization**    
 Evan Chen, Jianing Zhang, Shiqiang Wang, **Chaoyue Liu**, Christopher G Brinton    
 arXiv: 2502.02727
 
