@@ -47,11 +47,11 @@ Publications
 Neural Information Processing Systems (NeurIPS), 2025. (To appear)
 
 **DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**
-Jianing Zhang, Evan Chen, Dong-Jun Han, **Chaoyue Liu**, Christopher G Brinton
+Jianing Zhang, Evan Chen, Dong-Jun Han, **Chaoyue Liu**, Christopher G Brinton    
 arXiv: 2502.20565
 
 **Parameter Tracking in Federated Learning with Adaptive Optimization**
-Evan Chen, Jianing Zhang, Shiqiang Wang, **Chaoyue Liu**, Christopher G Brinton
+Evan Chen, Jianing Zhang, Shiqiang Wang, **Chaoyue Liu**, Christopher G Brinton    
 arXiv: 2502.02727
 
 **On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models** \
