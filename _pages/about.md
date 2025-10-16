@@ -42,10 +42,17 @@ News
 Publications
 ======
 
-**ReLU soothes the NTK condition number and accelerates optimization for wide neural networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813.pdf)    
-**Chaoyue Liu**, Like Hui    
-arXiv:2305.08813 (In submission)   
-presented at *Minisymposium: The Dynamical View of Machine Learning* at SIAM Conference on Mathematics of Data Science (MDS24), 2024.
+**(ReLU) Non-linear activation soothes NTK conditioning for wide neural networks**     
+**Chaoyue Liu**, Han Bi, Like Hui, Xiao Liu    
+Neural Information Processing Systems (NeurIPS), 2025. (To appear)
+
+**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**
+Jianing Zhang, Evan Chen, Dong-Jun Han, **Chaoyue Liu**, Christopher G Brinton
+arXiv: 2502.20565
+
+**Parameter Tracking in Federated Learning with Adaptive Optimization**
+Evan Chen, Jianing Zhang, Shiqiang Wang, **Chaoyue Liu**, Christopher G Brinton
+arXiv: 2502.02727
 
 **On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models** \
 Omar Basit\*, Phuc Dinh\*, Imran Khan\*, Z. Jonny Kong\*, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, **Chaoyue Liu**   
