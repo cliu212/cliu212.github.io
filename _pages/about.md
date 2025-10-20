@@ -42,7 +42,7 @@ News
 Publications
 ======
 
-**(ReLU) Non-linear activation soothes NTK conditioning for wide neural networks**     
+**Better NTK Conditioning: A Free Lunch from (ReLU) Nonlinear Activation in Wide Neural Networks**     
 **Chaoyue Liu**, Han Bi, Like Hui, Xiao Liu    
 Neural Information Processing Systems (NeurIPS), 2025. (To appear)
 
