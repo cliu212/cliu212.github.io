@@ -42,7 +42,7 @@ News
 Publications
 ======
 
-**Better NTK Conditioning: A Free Lunch from (ReLU) Nonlinear Activation in Wide Neural Networks**     
+**Better NTK Conditioning: A Free Lunch from (ReLU) Nonlinear Activation in Wide Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813)     
 **Chaoyue Liu**, Han Bi, Like Hui, Xiao Liu    
 Neural Information Processing Systems (NeurIPS), 2025. (To appear)
 
