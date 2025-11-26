@@ -27,6 +27,9 @@ My research interests also include: experimentally finding new phenomena in deep
 
 News
 ======
+* 2025/12: Attending NeurIPS at San Diego!
+* 2025/11: One paper accepted by Applied and Computational Harmonic Analysis (ACHA)!
+* 2025/09: One paper accepted by NeurIPS 2025!
 * 2024/08: Joining Purdue Uniersity, ECE department, as an Assistant Professor.
 * 2024/05: Our paper on catapult dynamics of SGD was accepted by ICML 2024! (with Libin, Adityanarayanan and Misha)  [\[Preprint\]](https://arxiv.org/pdf/2306.04815.pdf)
 * 2024/01: Our paper on quadratic models for understanding neural network catapult dynamics was accepted by ICLR 2024!  [\[Preprint\]](https://arxiv.org/pdf/2205.11787.pdf) 
@@ -45,6 +48,10 @@ Publications
 **Better NTK Conditioning: A Free Lunch from (ReLU) Nonlinear Activation in Wide Neural Networks** [\[pdf\]](https://arxiv.org/pdf/2305.08813)     
 **Chaoyue Liu**, Han Bi, Like Hui, Xiao Liu    
 Neural Information Processing Systems (NeurIPS), 2025. (To appear)
+
+**Assembly and iteration: transition to linearity of wide neural networks**    
+**Chaoyue Liu**, Libin Zhu, Mikhail Belkin    
+Applied and Computational Harmonic Analysis (ACHA) 2025. (To appear)
 
 **DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**    
 Jianing Zhang, Evan Chen, Dong-Jun Han, **Chaoyue Liu**, Christopher G Brinton    
