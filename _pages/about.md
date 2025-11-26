@@ -143,7 +143,10 @@ Talks
 
 Teaching
 ======
-* Purdue University, ECE 57000: Artificial Intelligence, 24 Fall. (Instructor, with Xiaoqian Wang)
+* Purdue University, ECE 57000: Artificial Intelligence, 26 Spring. (Instructor)
+* Purdue University, ECE 20875: Python for Data Science, 25 Fall. (Instructor)
+* Purdue University, ECE 57000: Artificial Intelligence, 25 Spring. (Instructor)
+* Purdue University, ECE 57000: Artificial Intelligence, 24 Fall. (Instructor)
 * OSU CSE 5523: Machine Learning, 17'Sp, 18'Sp, 19'Sp. (Teaching assistant)
 * OSU CSE 3421: Intro. to Computer Architecture, 18'Au. (Teaching assistant)
 * OSU CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases, 16'Sp. (Teaching assistant)
@@ -157,9 +160,10 @@ Organizer
 * [2024 MoDL workshop](https://modl-meeting-2024.github.io/)
 
 Reviewer
+* 2025: ICLR, ICML, NeurIPS, TMLR
 * 2024: ICLR, ICML, NeurIPS, TMLR, JMLR
 * 2023: ICLR, NeurIPS, ICML, TMLR, IEEE TNNLS, IMA, NeuroComputing
-* 2022: ICLR, NeurIPS, ICML, TMLR, AAAI, Swiss NSF grant
+* 2022: ICLR, NeurIPS, ICML, TMLR, AAAI
 * 2021: ICLR, NeurIPS, ICML, JASA, AAAI
 * 2020: NeurIPS, ICML, AAAI, UAI
 * 2019: NeurIPS, ICML, UAI
